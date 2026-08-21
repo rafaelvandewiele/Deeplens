@@ -35,7 +35,7 @@ DeepLens is a free, open-source tool that analyses images and videos to determin
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/deeplens.git
+git clone https://github.com/rafaelvandewiele/deeplens.git
 cd deeplens
 pip install -r requirements.txt
 ```
